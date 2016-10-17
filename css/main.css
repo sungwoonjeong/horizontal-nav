@@ -11,12 +11,11 @@ body {
   box-sizing: inherit;
 }
 
-h1 {
+header {
   list-style-type: none;
   text-align: center;
   background-color: #79756f;
-  margin: 0.3em;
-
+  border: 3px solid #595652;
 }
 
 nav {
