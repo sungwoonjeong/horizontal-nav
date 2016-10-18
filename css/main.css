@@ -16,19 +16,16 @@ header {
   background-color: #79756f;
   border: 3px solid #595652;
   color: #fff;
-  line-height: 1.5;
 }
 
 h1 {
   font-family: "Bevan", cursive;
   margin: 0;
-  font-size: 2em;
   line-height: 1.5;
 }
 
 nav {
   text-align: center;
-  display: inline-block;
 }
 
 nav ul {
@@ -41,7 +38,6 @@ nav li {
 }
 
 nav  a {
-
   font-family: sans-serif;
   color: #fff;
   display: inline-block;
