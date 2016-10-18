@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  margin: 0em;
+  margin: 0.5em;
   line-height: 1.5;
 }
 
@@ -20,7 +20,7 @@ header {
   color: #fff;
 }
 
-header h1 {
+h1 {
   font-family: 'Bevan', cursive;
   margin: 0;
 }
@@ -30,19 +30,19 @@ nav {
 }
 
 nav li {
-    list-style-type: none;
-    display: inline-block;
+  list-style-type: none;
+  display: inline-block;
 }
 
 nav  a {
-text-align: center;
-font-family: sans-serif;
-color: #fff;
-display: inline-block;
-text-decoration: none;
-background-color: #713837;
-padding: .6em;
-border-radius: 4px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #713837;
+  padding: .6em;
+  border-radius: 4px;
 }
 
 nav a:hover {
