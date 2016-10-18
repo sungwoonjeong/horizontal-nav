@@ -42,3 +42,7 @@ background-color: #713837;
 padding: .6em;
 margin: 0.3em;
 }
+
+nav a:hover {
+  background-color: #ff3333;
+}
