@@ -16,9 +16,24 @@ header {
   text-align: center;
   background-color: #79756f;
   border: 3px solid #595652;
+  color: #fff;
 }
 
 nav {
+  display: inline-block;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+nav  a{
+font-family: sans-serif;
+color: #fff;
 display: inline-block;
 text-decoration: none;
+background-color: #713837;
+padding: 0.5em 0.75em;
+margin: 0.3em;
 }
