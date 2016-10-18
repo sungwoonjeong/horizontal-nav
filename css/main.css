@@ -19,6 +19,10 @@ header {
   color: #fff;
 }
 
+h1 {
+  margin: 0;
+}
+
 nav {
   display: inline-block;
 }
@@ -29,11 +33,12 @@ nav li {
 }
 
 nav  a{
+text-align: center;
 font-family: sans-serif;
 color: #fff;
 display: inline-block;
 text-decoration: none;
 background-color: #713837;
-padding: 0.5em 0.75em;
+padding: .6em;
 margin: 0.3em;
 }
