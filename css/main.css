@@ -13,6 +13,7 @@ body {
 
 header {
   text-align: center;
+  padding: .6em;
   background-color: #79756f;
   border: 3px solid #595652;
   color: #fff;
@@ -37,7 +38,7 @@ nav li {
   display: inline-block;
 }
 
-nav  a {
+nav a {
   font-family: sans-serif;
   color: #fff;
   display: inline-block;
